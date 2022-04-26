@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## 🌱 I’m currently learning
-- Codeigniter 4
+- Laravel
 - Python/flask at [UniLab](https://unilab.iliauni.edu.ge/)
 - Mathematics at [IliaUni](//iliauni.edu.ge/)
 
@@ -22,7 +22,7 @@
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidtbilisi&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidtbilisi)](https://github.com/davidtbilisi/github-readme-stats)
 
-  </p>
+ </p>
   
 
 <p align='center'>
