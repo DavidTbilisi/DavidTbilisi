@@ -1,11 +1,13 @@
 ### Hi there 👋
 ## 🌱 I’m currently learning
-- Laravel
-- Python/flask at [UniLab](https://unilab.iliauni.edu.ge/)
-- Mathematics at [IliaUni](//iliauni.edu.ge/)
+- PHP/Symfony (adding one more framework to already known PHP framework list) 
+- Amazon Web Services
+- React js
+- Algorithms at [AlgoExport.io](https://algoexpert.io)
+- Mathematics at [IliaUni](https://iliauni.edu.ge/)
 
 ## 🖥️ I’m currently Working
-- for [National Archives of Georgia](https://archive.gov.ge/)
+- for [Tula.Co](https://tula.co/)
 
 ## 📫 How to reach me:  
  
