@@ -1,6 +1,5 @@
 ### Hi there 👋
 ## 🌱 I’m currently learning
-- PHP/Symfony (adding one more framework to already known PHP frameworks list) 
 - Amazon Web Services
 - React js
 - Algorithms at [AlgoExport.io](https://algoexpert.io)
