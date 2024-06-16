@@ -3,7 +3,7 @@
 - Amazon Web Services
 - React js
 - Algorithms at [AlgoExport.io](https://algoexpert.io)
-- Mathematics at [IliaUni](https://iliauni.edu.ge/)
+- IT at [UG](https://www.ug.edu.ge/)
 
 ## 🖥️ I’m currently Working
 - for [Tula.Co](https://tula.co/)
