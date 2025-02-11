@@ -1,6 +1,7 @@
 ### Hi there 👋
 ## 🌱 I’m currently learning
 - Amazon Web Services
+- Angular
 - React js
 - Algorithms at [AlgoExport.io](https://algoexpert.io)
 - IT at [The University of Georgia](https://www.ug.edu.ge/)
