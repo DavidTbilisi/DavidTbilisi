@@ -24,7 +24,7 @@
 ![DavidTbilisi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidTbilisi&theme=highcontrast&hide_border=false)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidtbilisi)](https://github.com/davidtbilisi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidtbilisi&hide=javascript,html,css)](https://github.com/davidtbilisi/github-readme-stats)
 
 </p>
   
