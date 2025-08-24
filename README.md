@@ -21,10 +21,12 @@
 
 <p align='center'>
   
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidtbilisi&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidtbilisi)](https://github.com/davidtbilisi/github-readme-stats)
+![DavidTbilisi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidTbilisi&theme=highcontrast&hide_border=false)
 
- </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidtbilisi)](https://github.com/davidtbilisi/github-readme-stats)
+
+</p>
   
 
 <p align='center'>
