@@ -6,8 +6,6 @@
 - Algorithms at [AlgoExport.io](https://algoexpert.io)
 - IT at [The University of Georgia](https://www.ug.edu.ge/)
 
-## 🖥️ I’m currently Working
-- for [Tula.Co](https://tula.co/)
 
 ## 📫 How to reach me:  
  
