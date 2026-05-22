@@ -13,10 +13,6 @@ Senior backend engineer (10y) building distributed systems and developer tools. 
 - **Tech-lead mentoring** — coached 3+ engineers on architecture, code review, and growth as TL in a commercial product team.
 - **Polyglot backend** — PHP / Symfony / Laravel as deep stack (10y); Python and Node as working stack; learning Go.
 
-## 🧠 Featured project — [Red Queen](https://github.com/DavidTbilisi/red-queen)
-
-A personal R&D project: an interlinked knowledge base (~300 pages) + interactive web "gyms" exploring **cognitive architecture, skill acquisition, and learning systems**. Frameworks for encoding (NEDF, CAST, SPEAR), memory architectures (palaces, peg systems), drill ladders, design-pattern gyms, system-design references. Built in parallel over years as "how I think about complex systems."
-
 ## 🛠 Shipped & deployed
 
 - **[Georgian Bible API](https://github.com/DavidTbilisi/Georgian_bible_api)** — Flask/Python REST API serving Georgian scripture. [Live →](https://davidchincharashvii.pythonanywhere.com/api/ka/geo/1/1/1/8)
