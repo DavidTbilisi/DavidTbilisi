@@ -130,12 +130,8 @@
 ## 📊 GitHub activity
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=DavidTbilisi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&v=2" height="170" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTbilisi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=8&v=2" height="170" alt="Top languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DavidTbilisi&theme=tokyonight" height="170" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidTbilisi&theme=tokyonight&exclude=html,css" height="170" alt="Top languages" />
 </p>
 
 <p align="center">
