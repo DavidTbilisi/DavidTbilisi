@@ -1,42 +1,157 @@
-# David Chincharashvili
+<!-- Hero banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=David%20Chincharashvili&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%E2%80%A2%20Tbilisi,%20Georgia&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+</p>
 
-Senior backend engineer (10y) building distributed systems and developer tools. Based in Tbilisi, Georgia (GMT+4) — open to remote senior IC roles in **EdTech / DevTools / infrastructure**.
+<p align="center">
+  <em>10 years building distributed systems and developer tools.<br/>Open to remote senior IC roles in <strong>EdTech</strong>, <strong>DevTools</strong>, and <strong>infrastructure</strong>.</em>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/david-chincharashvili/) &nbsp;·&nbsp; ✉️ davidchincharashvili@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/david-chincharashvili/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:davidchincharashvili@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/GMT%2B4-2C5364?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_to_work-3FB950?style=for-the-badge&logo=briefcase&logoColor=white" />
+</p>
 
----
+<br />
 
-## What I'm best at
+## 🎯 What I'm best at
 
-- **System design under regulatory pressure** — multi-year build at the National Archives of Georgia: custom RBAC, encryption-at-rest, payments integration, audit logging. Sole engineer; production for 5 years.
-- **Mature CI/CD + production ops** — pipelines deploying multiple times per day, automated quality gates, incident response with structural postmortems.
-- **Tech-lead mentoring** — coached 3+ engineers on architecture, code review, and growth as TL in a commercial product team.
-- **Polyglot backend** — PHP / Symfony / Laravel as deep stack (10y); Python and Node as working stack; learning Go.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**🏛️ System design under regulatory pressure**
+Multi-year build at the National Archives of Georgia: custom RBAC, encryption-at-rest, payments integration, audit logging. Sole engineer; in production for 5 years.
+
+    </td>
+    <td width="50%" valign="top">
+
+**🚀 Mature CI/CD + production ops**
+Pipelines deploying multiple times per day, automated quality gates, incident response with structural postmortems.
+
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+
+**👥 Tech-lead mentoring**
+Coached 3+ engineers on architecture, code review, and growth as TL in a commercial product team.
+
+    </td>
+    <td valign="top">
+
+**🧰 Polyglot backend**
+PHP / Symfony / Laravel as deep stack (10y); Python and Node as working stack; learning Go.
+
+    </td>
+  </tr>
+</table>
+
+<br />
 
 ## 🛠 Shipped & deployed
 
-- **[Georgian Bible API](https://github.com/DavidTbilisi/Georgian_bible_api)** — Flask/Python REST API serving Georgian scripture. [Live →](https://davidchincharashvii.pythonanywhere.com/api/ka/geo/1/1/1/8)
-- **[Sabbath School Converter](https://github.com/DavidTbilisi/ss-convertor-py)** — Python pipeline that publishes Georgian content to [sabbath-school.adventech.io](https://sabbath-school.adventech.io/ka/)
-- **[Georgian OCR](https://github.com/DavidTbilisi/davidtbilisi.georgian_ocr)** — OCR tooling for the Georgian language. [Demo →](https://davidtbilisi.github.io/davidtbilisi.georgian_ocr/)
-- **[Bible Reference Reader](https://github.com/DavidTbilisi/Bible-ref-reader)** — In-text Bible reference parser. [Demo →](https://davidtbilisi.github.io/Bible-ref-reader/)
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/DavidTbilisi/Georgian_bible_api">
+        <strong>🔌 Georgian Bible API</strong>
+      </a>
+      <br />
+      <sub>Flask REST API serving Georgian scripture</sub>
+      <br />
+      <a href="https://davidchincharashvii.pythonanywhere.com/api/ka/geo/1/1/1/8">
+        <img src="https://img.shields.io/badge/live_demo-3FB950?style=flat-square&logo=cloudflare&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/DavidTbilisi/ss-convertor-py">
+        <strong>🐍 Sabbath School Converter</strong>
+      </a>
+      <br />
+      <sub>Python pipeline publishing to a live site</sub>
+      <br />
+      <a href="https://sabbath-school.adventech.io/ka/">
+        <img src="https://img.shields.io/badge/live_site-3FB950?style=flat-square&logo=cloudflare&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DavidTbilisi/davidtbilisi.georgian_ocr">
+        <strong>📖 Georgian OCR</strong>
+      </a>
+      <br />
+      <sub>OCR tooling for the Georgian language</sub>
+      <br />
+      <a href="https://davidtbilisi.github.io/davidtbilisi.georgian_ocr/">
+        <img src="https://img.shields.io/badge/live_demo-3FB950?style=flat-square&logo=cloudflare&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DavidTbilisi/Bible-ref-reader">
+        <strong>🔍 Bible Reference Reader</strong>
+      </a>
+      <br />
+      <sub>In-text Bible reference parser</sub>
+      <br />
+      <a href="https://davidtbilisi.github.io/Bible-ref-reader/">
+        <img src="https://img.shields.io/badge/live_demo-3FB950?style=flat-square&logo=cloudflare&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-## 📚 Open-source teaching (in Georgian)
+<br />
 
-- **[Bash Scripting](https://github.com/DavidTbilisi/davidtbilisi.bash_scripting)** — Full Bash course in Georgian
-- **[Git Guide](https://github.com/DavidTbilisi/davidtbilisi.learning_git)** — Step-by-step Git walkthrough
-- **[JavaScript Course](https://github.com/DavidTbilisi/JavaScript_AoDI)** — Curriculum and exercises
+## 📚 Open-source teaching · in Georgian 🇬🇪
 
----
+<p>
+  <a href="https://github.com/DavidTbilisi/davidtbilisi.bash_scripting"><img src="https://img.shields.io/badge/Bash_Course-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /></a>
+  <a href="https://github.com/DavidTbilisi/davidtbilisi.learning_git"><img src="https://img.shields.io/badge/Git_Guide-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/DavidTbilisi/JavaScript_AoDI"><img src="https://img.shields.io/badge/JavaScript_Course-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+</p>
 
-## Stack
+<br />
 
-**Backend:** PHP (Symfony, Laravel) · Python (Flask, Django) · Node.js
-**Data:** PostgreSQL · MySQL · SQLite · Redis (learning)
-**Cloud:** AWS (EC2, RDS, S3, Lambda, IAM) · Linux ops
-**Other:** Bash · Git · CI/CD pipelines · REST API design
+## 🧰 Stack
 
----
+<p>
+  <strong>Backend</strong><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,symfony,laravel,python,flask,django,nodejs" /></a>
+</p>
+
+<p>
+  <strong>Data</strong><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" /></a>
+</p>
+
+<p>
+  <strong>Cloud & DevOps</strong><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,linux,bash,git,githubactions,docker" /></a>
+</p>
+
+<br />
+
+## 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTbilisi&layout=compact&hide=html,css&theme=dark" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidTbilisi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&card_width=480" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTbilisi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=8&card_width=320" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidTbilisi&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidTbilisi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" alt="footer" />
 </p>
