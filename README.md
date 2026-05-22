@@ -1,48 +1,36 @@
-### Hi there 👋
-## 🌱 I’m currently learning
-- Amazon Web Services
-- Angular
-- React js
-- Algorithms at [AlgoExport.io](https://algoexpert.io)
-- IT at [The University of Georgia](https://www.ug.edu.ge/)
+# David Chincharashvili
 
+Full-stack developer based in Tbilisi, Georgia. I build developer tools and learning resources for the **Georgian-language** ecosystem — areas where most mainstream tooling doesn't reach.
 
-## 📫 How to reach me:  
- 
- <a href="https://www.linkedin.com/in/david-chincharashvili/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="davidchincharashvili@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+📍 Tbilisi, Georgia &nbsp;·&nbsp; 💼 Open to opportunities &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/david-chincharashvili/) &nbsp;·&nbsp; ✉️ davidchincharashvili@gmail.com
 
+---
 
-<p align='center'>
- 
-[![committers.top badge](https://user-badge.committers.top/georgia/DavidTbilisi.svg)](https://user-badge.committers.top/georgia/DavidTbilisi)
+## 🛠 What I'm building
 
- 
-![DavidTbilisi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidTbilisi&theme=highcontrast&hide_border=false)
+### 🇬🇪 Georgian-language tools
 
+- **[Georgian OCR](https://github.com/DavidTbilisi/davidtbilisi.georgian_ocr)** — Convert scanned Georgian text to digital text. [Live demo →](https://davidtbilisi.github.io/davidtbilisi.georgian_ocr/)
+- **[Georgian Bible API](https://github.com/DavidTbilisi/Georgian_bible_api)** — REST API serving the Georgian Bible. [Try it →](https://davidchincharashvii.pythonanywhere.com/api/ka/geo/1/1/1/8)
+- **[Bible Reference Reader](https://github.com/DavidTbilisi/Bible-ref-reader)** — Parse and resolve Bible references in text. [Live demo →](https://davidtbilisi.github.io/Bible-ref-reader/)
+- **[Sabbath School Converter](https://github.com/DavidTbilisi/ss-convertor-py)** — Python tool that publishes Georgian Sabbath School lessons to [sabbath-school.adventech.io](https://sabbath-school.adventech.io/ka/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidtbilisi&hide=javascript,html,css)](https://github.com/davidtbilisi/github-readme-stats)
+### 📚 Open-source learning resources (in Georgian)
 
-</p>
-  
+- **[Bash Scripting](https://github.com/DavidTbilisi/davidtbilisi.bash_scripting)** — Full Bash course in Georgian. [Read online →](https://davidtbilisi.github.io/davidtbilisi.bash_scripting/)
+- **[Learning Git](https://github.com/DavidTbilisi/davidtbilisi.learning_git)** — Step-by-step Git guide. [Read online →](https://davidtbilisi.github.io/davidtbilisi.learning_git/)
 
-<p align='center'>
-  <img src="https://img.shields.io/badge/PHP-474a8a?style=for-the-badge&logo=PHP&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
- <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
- <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
- <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  
+---
+
+## 💻 Stack
+
+**Backend:** Python (Flask, Django) · PHP · Node.js
+**Frontend:** JavaScript · Vue · HTML / CSS
+**Data:** PostgreSQL · MySQL · SQLite
+**Tools:** Bash · Git · Linux
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTbilisi&layout=compact&hide=html,css&theme=dark" alt="Top languages" />
 </p>
