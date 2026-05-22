@@ -1,36 +1,43 @@
 # David Chincharashvili
 
-Full-stack developer based in Tbilisi, Georgia. I build developer tools and learning resources for the **Georgian-language** ecosystem — areas where most mainstream tooling doesn't reach.
+Senior backend engineer (10y) building distributed systems and developer tools. Based in Tbilisi, Georgia (GMT+4) — open to remote senior IC roles in **EdTech / DevTools / infrastructure**.
 
-📍 Tbilisi, Georgia &nbsp;·&nbsp; 💼 Open to opportunities &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/david-chincharashvili/) &nbsp;·&nbsp; ✉️ davidchincharashvili@gmail.com
-
----
-
-## 🛠 What I'm building
-
-### 🇬🇪 Georgian-language tools
-
-- **[Georgian OCR](https://github.com/DavidTbilisi/davidtbilisi.georgian_ocr)** — Convert scanned Georgian text into digital text. [Live demo →](https://davidtbilisi.github.io/davidtbilisi.georgian_ocr/)
-
-### 📚 Open-source learning resources (in Georgian)
-
-- **[Bash Scripting](https://github.com/DavidTbilisi/davidtbilisi.bash_scripting)** — Full Bash course in Georgian. [Read online →](https://davidtbilisi.github.io/davidtbilisi.bash_scripting/)
-- **[Learning Git](https://github.com/DavidTbilisi/davidtbilisi.learning_git)** — Step-by-step Git guide. [Read online →](https://davidtbilisi.github.io/davidtbilisi.learning_git/)
-- **[JavaScript Course](https://github.com/DavidTbilisi/JavaScript_AoDI)** — JavaScript curriculum and exercises.
-
-### 🧪 Misc
-
-- **[Colab Tutorial](https://github.com/DavidTbilisi/colab-tutorial)** — Walkthrough for Google Colab notebooks.
-- **[emoji_debug_js](https://github.com/DavidTbilisi/emoji_debug_js)** — Have a little fun while debugging JavaScript.
+[LinkedIn](https://www.linkedin.com/in/david-chincharashvili/) &nbsp;·&nbsp; ✉️ davidchincharashvili@gmail.com
 
 ---
 
-## 💻 Stack
+## What I'm best at
 
-**Backend:** Python (Flask, Django) · PHP · Node.js
-**Frontend:** JavaScript · Vue · HTML / CSS
-**Data:** PostgreSQL · MySQL · SQLite
-**Tools:** Bash · Git · Linux
+- **System design under regulatory pressure** — multi-year build at the National Archives of Georgia: custom RBAC, encryption-at-rest, payments integration, audit logging. Sole engineer; production for 5 years.
+- **Mature CI/CD + production ops** — pipelines deploying multiple times per day, automated quality gates, incident response with structural postmortems.
+- **Tech-lead mentoring** — coached 3+ engineers on architecture, code review, and growth as TL in a commercial product team.
+- **Polyglot backend** — PHP / Symfony / Laravel as deep stack (10y); Python and Node as working stack; learning Go.
+
+## 🧠 Featured project — [Red Queen](https://github.com/DavidTbilisi/red-queen)
+
+A personal R&D project: an interlinked knowledge base (~300 pages) + interactive web "gyms" exploring **cognitive architecture, skill acquisition, and learning systems**. Frameworks for encoding (NEDF, CAST, SPEAR), memory architectures (palaces, peg systems), drill ladders, design-pattern gyms, system-design references. Built in parallel over years as "how I think about complex systems."
+
+## 🛠 Shipped & deployed
+
+- **[Georgian Bible API](https://github.com/DavidTbilisi/Georgian_bible_api)** — Flask/Python REST API serving Georgian scripture. [Live →](https://davidchincharashvii.pythonanywhere.com/api/ka/geo/1/1/1/8)
+- **[Sabbath School Converter](https://github.com/DavidTbilisi/ss-convertor-py)** — Python pipeline that publishes Georgian content to [sabbath-school.adventech.io](https://sabbath-school.adventech.io/ka/)
+- **[Georgian OCR](https://github.com/DavidTbilisi/davidtbilisi.georgian_ocr)** — OCR tooling for the Georgian language. [Demo →](https://davidtbilisi.github.io/davidtbilisi.georgian_ocr/)
+- **[Bible Reference Reader](https://github.com/DavidTbilisi/Bible-ref-reader)** — In-text Bible reference parser. [Demo →](https://davidtbilisi.github.io/Bible-ref-reader/)
+
+## 📚 Open-source teaching (in Georgian)
+
+- **[Bash Scripting](https://github.com/DavidTbilisi/davidtbilisi.bash_scripting)** — Full Bash course in Georgian
+- **[Git Guide](https://github.com/DavidTbilisi/davidtbilisi.learning_git)** — Step-by-step Git walkthrough
+- **[JavaScript Course](https://github.com/DavidTbilisi/JavaScript_AoDI)** — Curriculum and exercises
+
+---
+
+## Stack
+
+**Backend:** PHP (Symfony, Laravel) · Python (Flask, Django) · Node.js
+**Data:** PostgreSQL · MySQL · SQLite · Redis (learning)
+**Cloud:** AWS (EC2, RDS, S3, Lambda, IAM) · Linux ops
+**Other:** Bash · Git · CI/CD pipelines · REST API design
 
 ---
 
