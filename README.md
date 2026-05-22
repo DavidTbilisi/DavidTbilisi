@@ -21,30 +21,22 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-
-**🏛️ System design under regulatory pressure**
-Multi-year build at the National Archives of Georgia: custom RBAC, encryption-at-rest, payments integration, audit logging. Sole engineer; in production for 5 years.
-
+      <strong>🏛️ System design under regulatory pressure</strong><br/>
+      Multi-year build at the National Archives of Georgia: custom RBAC, encryption-at-rest, payments integration, audit logging. Sole engineer; in production for 5 years.
     </td>
     <td width="50%" valign="top">
-
-**🚀 Mature CI/CD + production ops**
-Pipelines deploying multiple times per day, automated quality gates, incident response with structural postmortems.
-
+      <strong>🚀 Mature CI/CD + production ops</strong><br/>
+      Pipelines deploying multiple times per day, automated quality gates, incident response with structural postmortems.
     </td>
   </tr>
   <tr>
     <td valign="top">
-
-**👥 Tech-lead mentoring**
-Coached 3+ engineers on architecture, code review, and growth as TL in a commercial product team.
-
+      <strong>👥 Tech-lead mentoring</strong><br/>
+      Coached 3+ engineers on architecture, code review, and growth as TL in a commercial product team.
     </td>
     <td valign="top">
-
-**🧰 Polyglot backend**
-PHP / Symfony / Laravel as deep stack (10y); Python and Node as working stack; learning Go.
-
+      <strong>🧰 Polyglot backend</strong><br/>
+      PHP / Symfony / Laravel as deep stack (10y); Python and Node as working stack; learning Go.
     </td>
   </tr>
 </table>
@@ -138,8 +130,8 @@ PHP / Symfony / Laravel as deep stack (10y); Python and Node as working stack; l
 ## 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidTbilisi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&card_width=480" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTbilisi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=8&card_width=320" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidTbilisi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTbilisi&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=8" height="170" />
 </p>
 
 <p align="center">
