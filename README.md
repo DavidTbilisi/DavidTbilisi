@@ -43,61 +43,6 @@
 
 <br />
 
-## 🛠 Shipped & deployed
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/DavidTbilisi/Georgian_bible_api">
-        <strong>🔌 Georgian Bible API</strong>
-      </a>
-      <br />
-      <sub>Flask REST API serving Georgian scripture</sub>
-      <br />
-      <a href="https://davidchincharashvii.pythonanywhere.com/api/ka/geo/1/1/1/8">
-        <img src="https://img.shields.io/badge/live_demo-3FB950?style=flat-square&logo=cloudflare&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/DavidTbilisi/ss-convertor-py">
-        <strong>🐍 Sabbath School Converter</strong>
-      </a>
-      <br />
-      <sub>Python pipeline publishing to a live site</sub>
-      <br />
-      <a href="https://sabbath-school.adventech.io/ka/">
-        <img src="https://img.shields.io/badge/live_site-3FB950?style=flat-square&logo=cloudflare&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/DavidTbilisi/davidtbilisi.georgian_ocr">
-        <strong>📖 Georgian OCR</strong>
-      </a>
-      <br />
-      <sub>OCR tooling for the Georgian language</sub>
-      <br />
-      <a href="https://davidtbilisi.github.io/davidtbilisi.georgian_ocr/">
-        <img src="https://img.shields.io/badge/live_demo-3FB950?style=flat-square&logo=cloudflare&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DavidTbilisi/Bible-ref-reader">
-        <strong>🔍 Bible Reference Reader</strong>
-      </a>
-      <br />
-      <sub>In-text Bible reference parser</sub>
-      <br />
-      <a href="https://davidtbilisi.github.io/Bible-ref-reader/">
-        <img src="https://img.shields.io/badge/live_demo-3FB950?style=flat-square&logo=cloudflare&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br />
-
 ## 📚 Open-source teaching · in Georgian 🇬🇪
 
 <p>
