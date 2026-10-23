@@ -1,17 +1,16 @@
 <!-- Hero banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=David%20Chincharashvili&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%E2%80%A2%20Tbilisi,%20Georgia&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=David%20Chincharashvili&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20Tbilisi&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
-  <em>10 years building distributed systems and developer tools.<br/>Open to remote senior IC roles in <strong>EdTech</strong>, <strong>DevTools</strong>, and <strong>infrastructure</strong>.</em>
+  <em>Building and modernising backend systems since 2016 — PHP, Python, TypeScript, SQL.<br/>Teaching programming and cybersecurity in Georgian on the side.</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/david-chincharashvili/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:davidchincharashvili@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/GMT%2B4-2C5364?style=for-the-badge&logo=clockify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_to_work-3FB950?style=for-the-badge&logo=briefcase&logoColor=white" />
 </p>
 
 <br />
@@ -21,25 +20,36 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>🏛️ System design under regulatory pressure</strong><br/>
-      Multi-year build at the National Archives of Georgia: custom RBAC, encryption-at-rest, payments integration, audit logging. Sole engineer; in production for 5 years.
+      <strong>🔧 Modernising large legacy systems</strong><br/>
+      Owned a print-ordering platform used by FedEx end to end: 10,000 clients, a 500 GB MySQL database, PHP 5.x (CodeIgniter + Nette) upgraded to PHP 8.x. Removed backdoors and SQL-injection holes, tuned slow queries, normalised tables.
     </td>
     <td width="50%" valign="top">
-      <strong>🚀 Mature CI/CD + production ops</strong><br/>
-      Pipelines deploying multiple times per day, automated quality gates, incident response with structural postmortems.
+      <strong>🏛️ Sole engineer on public-sector systems</strong><br/>
+      Five years at the National Archives of Georgia: nearly 10 Laravel + MySQL web apps, including the public archive-document ordering service with online payments, role-based access control and encryption.
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <strong>👥 Tech-lead mentoring</strong><br/>
-      Coached 3+ engineers on architecture, code review, and growth as TL in a commercial product team.
+      <strong>🎓 Teaching</strong><br/>
+      Python lecturer at UNILAB (150+ students). Cybersecurity and web development instructor at the Academy of Digital Industries — now on my 4th cohort.
     </td>
     <td valign="top">
-      <strong>🧰 Polyglot backend</strong><br/>
-      PHP / Symfony / Laravel as deep stack (10y); Python and Node as working stack; learning Go.
+      <strong>🧰 Full stack, backend first</strong><br/>
+      PHP (Laravel, CodeIgniter, Nette) as the deep stack; Python, TypeScript and SQL as everyday tools; JavaScript and React on the front end; AWS in production.
     </td>
   </tr>
 </table>
+
+<br />
+
+## 🛠️ Projects
+
+| Project | What it is |
+|---|---|
+| [TTS](https://github.com/DavidTbilisi/TTS) | Text-to-speech for Georgian, English and Russian |
+| [FileTagger](https://github.com/DavidTbilisi/FileTagger) | Tag-based file organiser with a CLI (`ftag`) — built mostly for AI agents, which use it to navigate a 1,300-page knowledge base |
+| [Georgian OCR](https://github.com/DavidTbilisi/davidtbilisi.georgian_ocr) | Turns scanned Georgian text into editable text |
+| [SQL injection simulator](https://github.com/DavidTbilisi/sql-injection-simulator) | Browser-only SQL-injection simulator for teaching cybersecurity — fake data, no server |
 
 <br />
 
@@ -57,17 +67,17 @@
 
 <p>
   <strong>Backend</strong><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,symfony,laravel,python,flask,django,nodejs" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,python,flask,ts" /></a>
 </p>
 
 <p>
-  <strong>Data</strong><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" /></a>
+  <strong>Frontend</strong><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,react,html,css" /></a>
 </p>
 
 <p>
-  <strong>Cloud & DevOps</strong><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,linux,bash,git,githubactions,docker" /></a>
+  <strong>Data & infrastructure</strong><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,aws,linux,bash,git" /></a>
 </p>
 
 <br />
